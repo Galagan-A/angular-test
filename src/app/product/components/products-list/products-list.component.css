@@ -1,0 +1,17 @@
+.Green{
+    border: 3px green solid;
+    display: block;
+    margin: 5px;
+}
+
+.Red{
+    border: 3px red solid;
+    display: block;
+    margin: 5px;
+}
+
+.Blue{
+    border: 3px blue solid;
+    display: block;
+    margin: 5px;
+}
